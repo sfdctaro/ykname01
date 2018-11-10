@@ -5,6 +5,9 @@
         <layout>obj1__c-obj1レイアウト</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>obj2__c-obj2レイアウト</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>text01__c-text01レイアウト</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -14,6 +17,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>obj1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>obj2__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

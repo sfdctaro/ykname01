@@ -8,6 +8,9 @@
         <layout>obj2__c-obj2レイアウト</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>obj3__c-obj3レイアウト</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>text01__c-text01レイアウト</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>

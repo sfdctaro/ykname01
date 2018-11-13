@@ -105,10 +105,10 @@
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4835,
-            "modifiedTime": 1542114998749,
-            "changeTime": 1542114998749,
-            "contentHash": "a7a23a0f2abff4cc49e574d66df23593e70790eb"
+            "size": 4937,
+            "modifiedTime": 1542115158210,
+            "changeTime": 1542115158210,
+            "contentHash": "9d34ef5e1599878504eefbfc5b5f6ef2636a8902"
         }
     ],
     [
@@ -118,10 +118,10 @@
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4835,
-            "modifiedTime": 1542114998757,
-            "changeTime": 1542114998757,
-            "contentHash": "a7a23a0f2abff4cc49e574d66df23593e70790eb"
+            "size": 4937,
+            "modifiedTime": 1542115158215,
+            "changeTime": 1542115158215,
+            "contentHash": "9d34ef5e1599878504eefbfc5b5f6ef2636a8902"
         }
     ],
     [
@@ -131,10 +131,10 @@
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5173,
-            "modifiedTime": 1542114998763,
-            "changeTime": 1542114998763,
-            "contentHash": "919ffff81cfd6134763c1043b2483761e2661c02"
+            "size": 5275,
+            "modifiedTime": 1542115158220,
+            "changeTime": 1542115158220,
+            "contentHash": "60308543a3153c7c4bde919521bb98b9420a5f9f"
         }
     ],
     [
@@ -144,10 +144,10 @@
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 20023,
-            "modifiedTime": 1542114998787,
-            "changeTime": 1542114998787,
-            "contentHash": "32007d3a1def3c8b298cf9bb802eb68d83568fe8"
+            "size": 20455,
+            "modifiedTime": 1542115158242,
+            "changeTime": 1542115158242,
+            "contentHash": "067e3ecae730c6833eb8bf1783c44a4b213a5298"
         }
     ],
     [
@@ -170,10 +170,10 @@
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1542114998738,
-            "changeTime": 1542114998738,
-            "contentHash": "b6ee524f757909cc110db6ef0f116aa5a9839c7c"
+            "size": 256,
+            "modifiedTime": 1542115158201,
+            "changeTime": 1542115158201,
+            "contentHash": "b905513c4be0c3d3e29df5dd171ce4b28be1cb71"
         }
     ],
     [
@@ -183,10 +183,10 @@
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1542114998741,
-            "changeTime": 1542114998741,
-            "contentHash": "cc34797d8997ce2e1f310c5d9aad5f3994fad2f1"
+            "size": 256,
+            "modifiedTime": 1542115158204,
+            "changeTime": 1542115158204,
+            "contentHash": "cdf90482326ae0e401b3d640593f23a4d167bd2c"
         }
     ],
     [
@@ -322,40 +322,79 @@
     [
         "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj4__c/obj4__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj4__c/obj4__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1967,
             "modifiedTime": 1542114998739,
             "changeTime": 1542114998739,
-            "contentHash": "63f87976b805977f1217a14b479190dc008e371d"
+            "contentHash": "63f87976b805977f1217a14b479190dc008e371d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ykonishi/Projects/ykname01/force-app/main/default/layouts/obj4__c-obj4レイアウト.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/layouts/obj4__c-obj4レイアウト.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1947,
             "modifiedTime": 1542114998741,
             "changeTime": 1542114998741,
-            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj4__c",
         {
-            "state": "u",
             "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj4__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1542114998739,
             "changeTime": 1542114998739,
-            "contentHash": "28cae513469dfa989edaeb3044ddd00f27dc1d2d"
+            "contentHash": "28cae513469dfa989edaeb3044ddd00f27dc1d2d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj5__c/obj5__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj5__c/obj5__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1967,
+            "modifiedTime": 1542115158202,
+            "changeTime": 1542115158202,
+            "contentHash": "588200e9334ddd96921b55c3afd382d790825c43"
+        }
+    ],
+    [
+        "/Users/ykonishi/Projects/ykname01/force-app/main/default/layouts/obj5__c-obj5レイアウト.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/layouts/obj5__c-obj5レイアウト.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1542115158204,
+            "changeTime": 1542115158204,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj5__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ykonishi/Projects/ykname01/force-app/main/default/objects/obj5__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542115158202,
+            "changeTime": 1542115158202,
+            "contentHash": "1fade778658b1990d4cad4bfffa8ec7c34c8df85"
         }
     ]
 ]

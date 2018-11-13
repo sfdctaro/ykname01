@@ -14,6 +14,9 @@
         <layout>obj4__c-obj4レイアウト</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>obj5__c-obj5レイアウト</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>text01__c-text01レイアウト</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>

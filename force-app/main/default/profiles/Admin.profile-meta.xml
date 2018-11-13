@@ -17,6 +17,9 @@
         <layout>obj5__c-obj5レイアウト</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>obj6__c-obj6レイアウト</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>text01__c-text01レイアウト</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -62,6 +65,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>obj5__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>obj6__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
